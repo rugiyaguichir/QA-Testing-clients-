@@ -14,7 +14,7 @@ Cypress - это инструмент для тестирования веб-п�
 ## Установка Cypress
 1. Клонируйте этот репозиторий:
    ```bash
-   git clone [https://github.com/rugiyaguichir/Cypress]
+   git clone [https://github.com/rugiyaguichir/QA-Testing-clients-]
    cd cypress-test-cases
 2. Установите зависимости:
    ```bash
