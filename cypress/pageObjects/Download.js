@@ -9,6 +9,7 @@ export class DownloadPage{
         this.downloadbutton().click();
         this.checkbutton().check({ force: true });
         this.savebutton().click();
+        cy.visit('http://167.114.201.175:5000/clients');
         cy.pause();
     }
 }
