@@ -12,7 +12,7 @@ export class LoginPage{
         this.usernameField().type(username);
         this.passwordField().type(password);
         this.loginButton().click();
-        cy.wait(10000);
+        // cy.wait(1000);
       
     }
 }
